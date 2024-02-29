@@ -96,6 +96,7 @@ nav{
     line-height: 19.5px;
     display: flex;
     flex-direction: row-reverse;
+    white-space: nowrap;
 }
 .nav-item-second-link:hover{
     color: rgb(0, 78, 86);
